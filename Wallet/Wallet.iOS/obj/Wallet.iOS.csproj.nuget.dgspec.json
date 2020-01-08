@@ -1,0 +1,148 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\KOCKI2019_2020\\Wallet\\Wallet.iOS\\Wallet.iOS.csproj": {}
+  },
+  "projects": {
+    "D:\\KOCKI2019_2020\\Wallet\\Wallet.iOS\\Wallet.iOS.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\KOCKI2019_2020\\Wallet\\Wallet.iOS\\Wallet.iOS.csproj",
+        "projectName": "Wallet.iOS",
+        "projectPath": "D:\\KOCKI2019_2020\\Wallet\\Wallet.iOS\\Wallet.iOS.csproj",
+        "packagesPath": "C:\\Users\\Tra\\.nuget\\packages\\",
+        "outputPath": "D:\\KOCKI2019_2020\\Wallet\\Wallet.iOS\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Tra\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "xamarinios10"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "xamarinios10": {
+            "projectReferences": {
+              "D:\\KOCKI2019_2020\\Wallet\\Wallet\\Wallet.csproj": {
+                "projectPath": "D:\\KOCKI2019_2020\\Wallet\\Wallet\\Wallet.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "xamarinios10": {
+          "dependencies": {
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.3.1, )"
+            },
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[4.3.0.908675, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    },
+    "D:\\KOCKI2019_2020\\Wallet\\Wallet\\Wallet.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\KOCKI2019_2020\\Wallet\\Wallet\\Wallet.csproj",
+        "projectName": "Wallet",
+        "projectPath": "D:\\KOCKI2019_2020\\Wallet\\Wallet\\Wallet.csproj",
+        "packagesPath": "C:\\Users\\Tra\\.nuget\\packages\\",
+        "outputPath": "D:\\KOCKI2019_2020\\Wallet\\Wallet\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Tra\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "dependencies": {
+            "NBitcoin": {
+              "target": "Package",
+              "version": "[4.1.1.34, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[11.0.2, )"
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.3.1, )"
+            },
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[4.3.0.908675, )"
+            },
+            "ZXing.Net.Mobile.Forms": {
+              "target": "Package",
+              "version": "[2.3.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

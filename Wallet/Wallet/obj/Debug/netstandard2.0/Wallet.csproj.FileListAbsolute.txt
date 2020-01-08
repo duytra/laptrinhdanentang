@@ -1,0 +1,17 @@
+D:\KOCKI2019_2020\Wallet\Wallet\bin\Debug\netstandard2.0\Wallet.deps.json
+D:\KOCKI2019_2020\Wallet\Wallet\bin\Debug\netstandard2.0\Wallet.dll
+D:\KOCKI2019_2020\Wallet\Wallet\obj\Debug\netstandard2.0\Wallet.csprojAssemblyReference.cache
+D:\KOCKI2019_2020\Wallet\Wallet\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\KOCKI2019_2020\Wallet\Wallet\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+D:\KOCKI2019_2020\Wallet\Wallet\obj\Debug\netstandard2.0\Views\ItemDetailPage.xaml.g.cs
+D:\KOCKI2019_2020\Wallet\Wallet\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
+D:\KOCKI2019_2020\Wallet\Wallet\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+D:\KOCKI2019_2020\Wallet\Wallet\obj\Debug\netstandard2.0\Views\NewItemPage.xaml.g.cs
+D:\KOCKI2019_2020\Wallet\Wallet\obj\Debug\netstandard2.0\Wallet.AssemblyInfoInputs.cache
+D:\KOCKI2019_2020\Wallet\Wallet\obj\Debug\netstandard2.0\Wallet.AssemblyInfo.cs
+D:\KOCKI2019_2020\Wallet\Wallet\bin\Debug\netstandard2.0\ref\Wallet.dll
+D:\KOCKI2019_2020\Wallet\Wallet\bin\Debug\netstandard2.0\Wallet.pdb
+D:\KOCKI2019_2020\Wallet\Wallet\obj\Debug\netstandard2.0\XamlC.stamp
+D:\KOCKI2019_2020\Wallet\Wallet\obj\Debug\netstandard2.0\Wallet.dll
+D:\KOCKI2019_2020\Wallet\Wallet\obj\Debug\netstandard2.0\ref\Wallet.dll
+D:\KOCKI2019_2020\Wallet\Wallet\obj\Debug\netstandard2.0\Wallet.pdb

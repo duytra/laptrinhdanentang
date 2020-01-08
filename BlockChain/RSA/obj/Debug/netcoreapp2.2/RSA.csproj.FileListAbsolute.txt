@@ -1,0 +1,8 @@
+D:\GITHUB\dotnet-core-blockchain-advanced\BlockChain\RSA\bin\Debug\netcoreapp2.2\RSA.deps.json
+D:\GITHUB\dotnet-core-blockchain-advanced\BlockChain\RSA\bin\Debug\netcoreapp2.2\RSA.dll
+D:\GITHUB\dotnet-core-blockchain-advanced\BlockChain\RSA\bin\Debug\netcoreapp2.2\RSA.pdb
+D:\GITHUB\dotnet-core-blockchain-advanced\BlockChain\RSA\obj\Debug\netcoreapp2.2\RSA.csprojAssemblyReference.cache
+D:\GITHUB\dotnet-core-blockchain-advanced\BlockChain\RSA\obj\Debug\netcoreapp2.2\RSA.AssemblyInfoInputs.cache
+D:\GITHUB\dotnet-core-blockchain-advanced\BlockChain\RSA\obj\Debug\netcoreapp2.2\RSA.AssemblyInfo.cs
+D:\GITHUB\dotnet-core-blockchain-advanced\BlockChain\RSA\obj\Debug\netcoreapp2.2\RSA.dll
+D:\GITHUB\dotnet-core-blockchain-advanced\BlockChain\RSA\obj\Debug\netcoreapp2.2\RSA.pdb
